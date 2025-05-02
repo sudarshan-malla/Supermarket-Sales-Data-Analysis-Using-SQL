@@ -17,6 +17,6 @@ This project performs data cleaning, exploration, and analysis on Walmart sales 
 
 ## 📌 How to Use
 1. Load `supermarket_sales.csv` into your database.
-2. Run queries from `SQL Queries/walmart_sales_analysis_postgresql.sql`.
+2. Run queries from `SQL Queries/walmart_sales_analysis.sql`.
 3. Export insights to `exports/` folder or `screenshots/` folder.
 4. Push the whole folder to GitHub.
